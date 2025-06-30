@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lancido/static/css/main.eebf6d6a.css",
+    "main.js": "/lancido/static/js/main.abecef3c.js",
+    "static/js/488.60832b40.chunk.js": "/lancido/static/js/488.60832b40.chunk.js",
+    "index.html": "/lancido/index.html",
+    "main.eebf6d6a.css.map": "/lancido/static/css/main.eebf6d6a.css.map",
+    "main.abecef3c.js.map": "/lancido/static/js/main.abecef3c.js.map",
+    "488.60832b40.chunk.js.map": "/lancido/static/js/488.60832b40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eebf6d6a.css",
+    "static/js/main.abecef3c.js"
+  ]
+}
