@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lancido/static/css/main.eebf6d6a.css",
-    "main.js": "/lancido/static/js/main.abecef3c.js",
-    "static/js/488.60832b40.chunk.js": "/lancido/static/js/488.60832b40.chunk.js",
+    "main.css": "/lancido/static/css/main.22dafa6d.css",
+    "main.js": "/lancido/static/js/main.0e114b20.js",
+    "static/js/714.ae125dbe.chunk.js": "/lancido/static/js/714.ae125dbe.chunk.js",
     "index.html": "/lancido/index.html",
-    "main.eebf6d6a.css.map": "/lancido/static/css/main.eebf6d6a.css.map",
-    "main.abecef3c.js.map": "/lancido/static/js/main.abecef3c.js.map",
-    "488.60832b40.chunk.js.map": "/lancido/static/js/488.60832b40.chunk.js.map"
+    "main.22dafa6d.css.map": "/lancido/static/css/main.22dafa6d.css.map",
+    "main.0e114b20.js.map": "/lancido/static/js/main.0e114b20.js.map",
+    "714.ae125dbe.chunk.js.map": "/lancido/static/js/714.ae125dbe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eebf6d6a.css",
-    "static/js/main.abecef3c.js"
+    "static/css/main.22dafa6d.css",
+    "static/js/main.0e114b20.js"
   ]
 }
